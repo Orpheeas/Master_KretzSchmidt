@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (TemplateSDL2_B1.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  main.cpp
+     CrÚation de la bibliothÞque C:\Users\teokr\Documents\Visual Studio 2017\Projects\Master_KretzSchmidt_ExamenTiledMap\Debug\Master_KretzSchmidt_Exament.lib et de l'objet C:\Users\teokr\Documents\Visual Studio 2017\Projects\Master_KretzSchmidt_ExamenTiledMap\Debug\Master_KretzSchmidt_Exament.exp
+  TemplateSDL2_B1.vcxproj -> C:\Users\teokr\Documents\Visual Studio 2017\Projects\Master_KretzSchmidt_ExamenTiledMap\Debug\Master_KretzSchmidt_Exament.exe
